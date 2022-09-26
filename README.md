@@ -1,1 +1,1 @@
-# Projeto seguindo a Aplicando o Estilo Arquitetural REST com Node.js (DIO)
+- Projeto seguindo o curso Aplicando o Estilo Arquitetural REST com Node.js (DIO)
